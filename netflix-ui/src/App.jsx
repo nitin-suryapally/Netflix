@@ -2,7 +2,7 @@
 import React from 'react';
 import { BrowserRouter, Route , Routes } from 'react-router-dom';
 import Login from './Pages/login';
-import Netflix from './Pages/netflix';
+import Netflix from './Pages/Netflix';
 import Signup from './Pages/signup';
 
 
